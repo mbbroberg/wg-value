@@ -1,26 +1,34 @@
 # CHAOSS Value Metrics Group (VMG)
 
-## Read our Launch Plan
+The VMG focuses on metrics that directly result in funding community activities.
 
-VMG is a new group focused on metrics for Economic Value in open source.
+We are interested in aggregating approaches to valuing community activities that successful results in funding. This groups welcomes any metric that is one step removed from funding community programs, whether it's in the shape of an Open Source Program Office (OSPO), Developer Relations (DevRel), or influencer program (ex. Microsoft MVP).
 
-Economic value is expressed in different ways for different types of
-stakeholders.  We will be exploring this space in the coming months.
+## How to get involved
 
-See our [launch plan][1] for more info.
+All contributors are welcome to participate in VMG. Regular participants have the opportunity to join as a [Core Contributor](https://github.com/chaoss/wg-value#core-contributor). Here are the ways to do so. 
 
-[1]: https://docs.google.com/document/d/1j4mL0NKhITNjlG629w4eMkEeHPopskd7Yn3YIPFMMqo
+### Propose a metric
 
-## Join our Mailing List
+TODO
 
-This CHAOSS working group is using the general [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
+### Join the group
 
-## Join our Bi-Weekly Calls
+The VMG is working under the umbrella of the [CHAOSS project](https://chaoss.community/) as part of the [Linux Foundation](https://www.linuxfoundation.org/). 
 
-The VMG team meets every other Thursday from 10-11 am US Central Time.  All are welcome.
+We welcome everyone to join us by: 
+
+* Joining the general [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss)
+* Participating in our bi-weekly community calls (information [below](https://github.com/chaoss/wg-value#join-our-weekly-calls))
+
+As a contributor, you can help us keep our community open and inclusive. Read the [code of conduct](https://www.linuxfoundation.org/code-of-conduct/) to understand how.
+
+### Join our Weekly Calls 
+
+We host video calls every other Thursday from 10-11 am US Central Time.  All are welcome.
 
 Read our [meeting notes][notes] to learn our history and find out when our next
-call will be.
+call will be held.
 
 [notes]: https://docs.google.com/document/d/1qWAV4ExtwcY3mSzIb9sYOUENt4Pi1BD7APjnRTCnZZs/edit
 
@@ -28,19 +36,11 @@ The videoconference URL is https://unomaha.zoom.us/j/720431288.
 
 ## Background
 
-### Problem Statement
+Community initiatives do not reflect the same direct monetary value as other common organizational efforts.
 
-We have gotten requests from community members to establish industry-standard
-metrics for economic value in open source.  Lack of metrics makes it difficult
-for business decision makers to compare open-source methods to alternatives.
-Lack of metrics makes it difficult to allocate resources optimally across
-projects, slowing decision making and product innovation.
+### Known limitations
 
-### Opportunity
-
-We believe that value metrics can accelerate the adoption of open source
-methods within industry, providing more opportunities for developers to make a
-living wage in open source.
+The approach used to date (March 2020) uses language that defaults to the technology industry and its organizational structures. These terms may not reflect other industries or organizations (e.g. nonprofits). Please bring up terminology discrepencies or recommendations through [a new issue](https://github.com/chaoss/wg-value/issues).
 
 ### Goal
 
@@ -83,7 +83,7 @@ We're just getting started!
 
 **Maintainers**
 
-- [Andy Leak](https://github.com/andyl)
+- [Matt Broberg](https://github.com/mbbroberg)
 - [Georg Link](https://github.com/georglink)
 
 **Core Contributors**
